@@ -1,0 +1,5 @@
+node_modules
+templates/*
+!templates/.gitkeep
+!templates/example.html
+.env

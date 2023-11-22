@@ -1,0 +1,16 @@
+{
+  "name": "email-template-sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Chatbots-Studio/email-template-sender.git",
+  "author": "Oleh Stepaniuk <oleh.stepaniuk@chatbots.studio>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemailer": "^6.9.7"
+  }
+}
