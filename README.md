@@ -1,4 +1,4 @@
-### Send your emails templates to check if everying looks as expected.
+### Send your emails templates to check if everything looks as expected.
 **Just simply:**
 1. yarn
 2. create .env file and fill by example in .env.example
